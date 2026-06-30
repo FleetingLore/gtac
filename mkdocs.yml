@@ -1,9 +1,10 @@
-site_name: mkdocs-example
-site_url: https://fleetinglore.github.io/mkdocs-example
+site_name: 图论与加性组合
+site_url: https://fleetinglore.github.io/gtac
 
 # 在此处指定目录
 nav:
-  - example: index.md
+  - index: index.md
+  - 第 0 章: c0/index.md
 
 theme:
   name: material
